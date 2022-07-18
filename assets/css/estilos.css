@@ -1,0 +1,53 @@
+.fondoVerde {
+  background-color: #28A745;
+}
+
+.colorPrecio {
+  font-size: 20pt;
+  color: #28A745;
+}
+
+.tamPrecio {
+  font-size: 16pt;
+}
+
+.div_img_card {
+  height: 150px;
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 25pt;
+  width: 86pt;
+  background-image: url(../imgs/logo-white.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+form h4{
+  padding-top: 15pt;
+}
+.contenedor {
+  height: 241px;
+  font-size: 21pt;
+  color: white;
+  text-align: center;
+  
+}
+
+.margenInput{
+  margin: 4pt 4pt 4pt 4pt;
+  size: 1pt;
+}
+
+footer img {
+  width: 82pt;
+  height: 24pt;
+}
+
+footer {
+  text-align: center;
+}
